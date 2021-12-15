@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5358351298641486527
+  m_GuidHigh: 3105288005251788466
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4687391448038578614
+      m_GuidHigh: 16299637894773494197
+    m_SerializedTextureGuid:
+      m_GuidLow: 3928295864738892676
+      m_GuidHigh: 7729392820273575227
+    m_Size: {x: 0.3, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: biryani
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5644597497951927339
+      m_GuidHigh: 10475360508099177882
+    m_SerializedTextureGuid:
+      m_GuidLow: 2640255189843166684
+      m_GuidHigh: 18032618336096591161
+    m_Size: {x: 0.3, y: 0.22500001}
+    m_SpecifySize: 1
+    m_Name: burger
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5302375748231146847
+      m_GuidHigh: 10659739728568129939
+    m_SerializedTextureGuid:
+      m_GuidLow: 14309073406622353036
+      m_GuidHigh: 3573137962457365193
+    m_Size: {x: 0.3, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: fries
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5719339511609239626
+      m_GuidHigh: 11322892638489011647
+    m_SerializedTextureGuid:
+      m_GuidLow: 10800888277847621900
+      m_GuidHigh: 1534234820451359673
+    m_Size: {x: 0.3, y: 0.23137257}
+    m_SpecifySize: 1
+    m_Name: pizza
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5290669084054628814
+      m_GuidHigh: 10888377364558210216
+    m_SerializedTextureGuid:
+      m_GuidLow: 15471213539196105033
+      m_GuidHigh: 15353771102960603704
+    m_Size: {x: 0.3, y: 0.3375}
+    m_SpecifySize: 1
+    m_Name: steak
+    m_Texture: {fileID: 0}
